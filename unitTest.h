@@ -4,7 +4,7 @@
  * Summary:
  *    The base class to all the unit test classes
  * Author
- *    James Helfrich
+ *    James Helfrich, PhD. (c) 2022 by Kendall Hunt
  ************************************************************************/
 
 #pragma once

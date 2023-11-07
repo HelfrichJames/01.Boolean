@@ -4,7 +4,7 @@
  * Summary:
  *    This class contains the notion of a Boolean
  * Author
- *    James Helfrich
+ *    James Helfrich, PhD. (c) 2022 by Kendall Hunt
  ************************************************************************/
 
 #pragma once

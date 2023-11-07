@@ -4,7 +4,7 @@
  * Summary:
  *    Driver to test boolean.h
  * Author
- *    James Helfrich
+ *    James Helfrich, PhD. (c) 2022 by Kendall Hunt
  ************************************************************************/
 
 

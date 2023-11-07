@@ -4,7 +4,7 @@
  * Summary:
  *    Unit tests for array
  * Author
- *    James Helfrich
+ *    James Helfrich, PhD. (c) 2022 by Kendall Hunt
  ************************************************************************/
 
 #pragma once
