@@ -15,24 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="spy.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="testSpy.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="unitTest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="array.h">
+    <ClInclude Include="boolean.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="testArray.h">
+    <ClInclude Include="testBoolean.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="testArray.cpp">
+    <ClCompile Include="testBoolean.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

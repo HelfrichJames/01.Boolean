@@ -4,7 +4,7 @@
  * Summary:
  *    The base class to all the unit test classes
  * Author
- *    Br. Helfrich
+ *    James Helfrich
  ************************************************************************/
 
 #pragma once
